@@ -11,11 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student at UCL** (BSc 2028) with a passion for building AI-powered products that actually ship. From **Vietnam to the UK**, I've been fortunate to work on projects that blend cutting-edge ML with real-world impact.
+I'm a **Computer Science student** with a passion for building AI-powered products that actually ship. From **Vietnam to the UK**, I've been fortunate to work on projects that blend cutting-edge ML with real-world impact.
 
-I recently **won 1st place** out of 25+ teams at the Lovable Hackathon with an AI fact-checking platform, and placed **6th** at Cursor's London Evening Hack with a sub-5-second facial recognition pipeline. I'm obsessed with the intersection of **speed, intelligence, and user experience** — whether that's training Random Forests on cancer datasets, building serverless backends with Supabase, or engineering multi-stage prompt chains.
-
-When I'm not coding, you'll find me leading initiatives at **UCL AI Society's Nexus Labs** (the largest student-led AI research lab in the UK), or tinkering with the next side project. I represented Vietnam at the **F1 in Schools World Finals 2024** and secured a full ANSYS sponsorship for our team.
+I'm obsessed with the intersection of **speed, intelligence, and user experience**; whether that's training Random Forests on cancer datasets, building serverless backends with Supabase, or engineering multi-stage prompt chains.
 
 **Currently:** Exploring agentic AI workflows, shipping MVPs with Convex + React, and always open to collaborations on impactful projects.
 
@@ -84,70 +82,27 @@ When I'm not coding, you'll find me leading initiatives at **UCL AI Society's Ne
 
 ## 🎯 Featured Projects
 
-### 🏆 [Grounded - AI Fact-Checking Platform](https://github.com/lnv-louis/grounded)
-**1st Place Winner, Lovable Hackathon** (Oct 2025)
-- Multi-stage prompt chain with Perplexity's Sonar Pro Model analyzing 6+ sources per query
-- Full-stack serverless: React, TypeScript, Supabase, Deno Edge Functions
-- Interactive source-tree visualization with ReactFlow
-
+### [Grounded - AI Fact-Checking Platform](https://github.com/lnv-louis/grounded)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
-
-### 🏆 [Dex - Live Facial Recognition for Networking](https://github.com/lnv-louis/dex)
-**6th Place Winner, Cursor London Evening Hack** (Nov 2025)
-- Real-time facial recognition pipeline with <5-second LinkedIn profile retrieval
-- Chrome extension scraping 70+ attendees from Luma → Convex DB
-- Facenet512 + RetinaFace for recognition
-
+### [Dex - Live Facial Recognition for Networking](https://github.com/lnv-louis/dex)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-FF4F00?style=flat-square&logo=convex&logoColor=white)
 
----
-
-### 🏠 [Homiq - AI-Powered Property Search](https://github.com/lnv-louis/homiq)
-**Perplexity Sonar Pro API** (Sep 2025)
-- Dynamic, context-aware property research across 5+ criteria (safety, schools, amenities)
-- Interactive infinite canvas UI with modular widgets
-- Reduced property research time from hours to minutes
-
+### [Homiq - AI-Powered Property Search](https://github.com/lnv-louis/homiq)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
-
-### 🧬 ML Research: Cancer Subtype Classification
-- Random Forest + RBF-SVM models for AML subtype classification
-- LASSO dimensionality reduction, SMOTE for class imbalance
-- **82% accuracy** with tuned RBF-SVM outperforming baseline
-
+### ML Research: Cancer Subtype Classification
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
----
-
-### 📈 ML Research: Financial News Sentiment Analysis
-- Bidirectional LSTM vs LinearSVC comparison on 4,846 financial headlines
-- **LinearSVC F1: 0.74**, outperforming LSTM (overfitting after 3 epochs)
-
+### ML Research: Financial News Sentiment Analysis
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 🎓 Education & Achievements
-
-**University College London (UCL)** | BSc Computer Science (Expected June 2028)
-- Nexus Labs Officer - UCL AI Society (largest student-led AI research lab in UK)
-
-**British International School HCMC** | IB Diploma: **43/45** | 9 A*s at IGCSE
-
-**Awards:**
-- 🏆 **F1 in Schools World Finals 2024**: Represented Vietnam, secured full ANSYS Fluent sponsorship
-- 🥈 **Silver Scholar - International Logic Olympiad 2024**: Top 10%, Stanford University
 
 ---
 
