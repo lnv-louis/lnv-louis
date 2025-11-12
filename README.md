@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Le Nguyen Vu 👋</h1>
+<h1 align="center">Hi there, I'm Louis Le 👋</h1>
 <h3 align="center">AI-focused full-stack engineer shipping high-impact MVPs from London 🇬🇧</h3>
 
 <p align="center">
