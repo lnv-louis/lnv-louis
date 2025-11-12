@@ -82,25 +82,29 @@ I'm obsessed with the intersection of **speed, intelligence, and user experience
 
 ## 🎯 Featured Projects
 
-### [Grounded - AI Fact-Checking Platform](https://github.com/lnv-louis/grounded)
+### [Grounded - AI Fact-Checking Platform](https://github.com/lnv-louis/grounded-fact-checking)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### [Dex - Live Facial Recognition for Networking](https://github.com/lnv-louis/dex)
+### [Dex - Live Facial Recognition for Networking](https://github.com/lnv-louis/dex-face-recognition)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-FF4F00?style=flat-square&logo=convex&logoColor=white)
 
-### [Homiq - AI-Powered Property Search](https://github.com/lnv-louis/homiq)
+### [Homiq - AI-Powered Property Search](https://github.com/lnv-louis/homiq-property-search-engine)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### ML Research: Cancer Subtype Classification
+### [LumedIn - LinkedIn Profile Data](https://github.com/bulutyazgan/LumedIn)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+### [ML Research: Cancer Subtype Classification](https://github.com/lnv-louis/AML-Subtypes-Classification-ML)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### ML Research: Financial News Sentiment Analysis
+### [ML Research: Financial News Sentiment Analysis](https://github.com/lnv-louis/ml-sentiment-analysis)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
 
