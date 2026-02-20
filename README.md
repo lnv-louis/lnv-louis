@@ -15,7 +15,7 @@ I'm a **Computer Science student at UCL** (BSc CS 2028) building AI-powered prod
 
 I'm obsessed with the intersection of **speed, intelligence, and user experience**—whether that's engineering multi-agent systems with LangGraph, building real-time streaming architectures, training Random Forests on cancer datasets, or automating workflows with Google Apps Script.
 
-**Currently:** Co-founding **The Hack Collective** (UK's largest hackathon community, 550+ members), serving as Nexus Labs Officer at UCL AI Society, and always open to collaborations on impactful projects.
+**Currently:** Building a **fintech AI platform** with multi-agent orchestration, real-time financial data pipelines, and SEC filing ingestion. Co-founding **The Hack Collective** (UK's largest hackathon community, 650+ members) and serving as Nexus Labs Officer at UCL AI Society.
 
 ---
 
@@ -144,11 +144,11 @@ Comparative analysis of Bidirectional LSTM and LinearSVC for sentiment classific
 
 ## 🌱 Currently Learning & Exploring
 
-- **LangGraph Multi-Agent Systems**: Building production-ready agentic workflows with parallel execution and shared state orchestration
-- **Real-Time Streaming Architectures**: Engineering SSE pipelines handling thousands of concurrent connections with sub-100ms latency
-- **Financial ML & Quantitative Analysis**: Exploring equity research automation and custom financial data visualization
-- **Advanced Prompt Engineering**: Crafting multi-stage reasoning systems and selective tool invocation patterns
-- **Building at UCL**: Leading AI research initiatives at Nexus Labs and growing The Hack Collective community
+- **Multi-Agent Orchestration**: Production systems with 30+ financial tools, parallel execution, and per-section streaming via Redis channels
+- **Real-Time Streaming Architectures**: SSE pipelines with stream recovery, Redis XREAD follow patterns, and correlation-traced observability
+- **Financial Data Infrastructure**: SEC XBRL ingestion, normalized financial outputs, S3-backed storage sync, and stratified universe caching (2,000+ instruments)
+- **AI Rendering Pipelines**: Dual rendering architectures (Thesys C1 SDK + JSON UITree) with Zod-validated component registries (50+ components)
+- **Building at UCL**: Leading AI research initiatives at Nexus Labs and growing The Hack Collective community (650+ members)
 
 ---
 
