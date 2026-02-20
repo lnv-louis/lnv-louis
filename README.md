@@ -5,6 +5,12 @@
   <a href="https://linkedin.com/in/le-nguyen-vu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://lenguyenvu.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:lelouis.lnv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=lnv-louis&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lnv-louis&theme=react-dark&hide_border=true&area=true&from=2025-01-01" alt="Contribution Graph" />
 </p>
 
 ---
@@ -13,9 +19,17 @@
 
 I'm a **Computer Science student at UCL** (BSc CS 2028) building AI-powered products that actually ship. From **Vietnam to the UK**, I've been fortunate to work on projects that blend cutting-edge ML with real-world impact.
 
-I'm obsessed with the intersection of **speed, intelligence, and user experience**—whether that's engineering multi-agent systems with LangGraph, building real-time streaming architectures, training Random Forests on cancer datasets, or automating workflows with Google Apps Script.
+**Currently:** Building a **fintech AI platform** with multi-agent orchestration, real-time financial data pipelines, and SEC filing ingestion. Co-founding **The Hack Collective** (one of the UK's largest communities of student builders, 650+ members) and serving as Nexus Labs Officer at UCL AI Society.
 
-**Currently:** Building a **fintech AI platform** with multi-agent orchestration, real-time financial data pipelines, and SEC filing ingestion. Co-founding **The Hack Collective** (UK's largest hackathon community, 650+ members) and serving as Nexus Labs Officer at UCL AI Society.
+---
+
+## 🌱 Currently Learning & Exploring
+
+- **Multi-Agent Orchestration**: Production systems with 30+ financial tools, parallel execution, and per-section streaming via Redis channels
+- **Real-Time Streaming Architectures**: SSE pipelines with stream recovery, Redis XREAD follow patterns, and correlation-traced observability
+- **Financial Data Infrastructure**: SEC XBRL ingestion, normalized financial outputs, S3-backed storage sync, and stratified universe caching (2,000+ instruments)
+- **AI Rendering Pipelines**: Dual rendering architectures (Thesys C1 SDK + JSON UITree) with Zod-validated component registries (50+ components)
+- **Building at UCL**: Leading AI research initiatives at Nexus Labs and growing The Hack Collective community (650+ members)
 
 ---
 
@@ -31,15 +45,11 @@ I'm obsessed with the intersection of **speed, intelligence, and user experience
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lnv-louis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnv-louis&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnv-louis&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&starting_year=2025" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnv-louis&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lnv-louis&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -139,32 +149,6 @@ Comparative analysis of Bidirectional LSTM and LinearSVC for sentiment classific
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- **Multi-Agent Orchestration**: Production systems with 30+ financial tools, parallel execution, and per-section streaming via Redis channels
-- **Real-Time Streaming Architectures**: SSE pipelines with stream recovery, Redis XREAD follow patterns, and correlation-traced observability
-- **Financial Data Infrastructure**: SEC XBRL ingestion, normalized financial outputs, S3-backed storage sync, and stratified universe caching (2,000+ instruments)
-- **AI Rendering Pipelines**: Dual rendering architectures (Thesys C1 SDK + JSON UITree) with Zod-validated component registries (50+ components)
-- **Building at UCL**: Leading AI research initiatives at Nexus Labs and growing The Hack Collective community (650+ members)
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to collaborating on impactful projects, especially in **AI/ML**, **full-stack development**, or anything that pushes boundaries. Feel free to reach out!
-
-<p align="center">
-  <a href="https://linkedin.com/in/le-nguyen-vu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:lelouis.lnv@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://lenguyenvu.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lnv-louis&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ---
 
