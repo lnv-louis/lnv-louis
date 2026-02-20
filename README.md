@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lnv-louis&theme=react-dark&hide_border=true&area=true&from=2025-01-01" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnv-louis&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&starting_year=2025" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
@@ -31,6 +31,10 @@ I'm a **Computer Science student at UCL** (BSc CS 2028) building AI-powered prod
 - **AI Rendering Pipelines**: Dual rendering architectures (Thesys C1 SDK + JSON UITree) with Zod-validated component registries (50+ components)
 - **Building at UCL**: Leading AI research initiatives at Nexus Labs and growing The Hack Collective community (650+ members)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lnv-louis&theme=react-dark&hide_border=true&area=true&from=2025-01-01" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -45,7 +49,6 @@ I'm a **Computer Science student at UCL** (BSc CS 2028) building AI-powered prod
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lnv-louis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnv-louis&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&starting_year=2025" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
