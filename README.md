@@ -26,10 +26,8 @@ Building production agentic systems processing real-time equity data across 2,00
 ## Work
 
 **Fintech AI Platform** | Co-founder & CTO (Nov 2025 - Present)
-- Architected a production multi-agent orchestration system with 31 financial APIs covering equity screening, dark pool analysis, SEC filings, and market intelligence
-- Built multi-tier caching (L1 in-memory, L2 Redis) with graceful degradation, cutting API costs 60-80%
-- Designed a schema-driven component rendering pipeline (50+ Zod-validated components) powering the Claude Agent SDK frontend with integrated E2B sandboxes
-- Implemented structured JSON logging (OpenTelemetry-style), Langfuse distributed tracing, and correlation ID middleware
+
+Financial intelligence platform. Users ask questions in natural language — an agentic orchestrator (Claude Agent SDK) routes to 31 tool APIs spanning equity screening, SEC filing search, news, and market data. Responses render as rich UI via a schema-driven component pipeline (10 Zod-validated components). Backend is FastAPI + Firestore + Redis with L1/L2 caching that cut API costs 60-80%. Includes a Typst-based PDF report pipeline, E2B code sandboxes, and Langfuse tracing. ~2,000 instruments, real-time.
 
 **The Hack Collective** | Co-founder (Sep 2025 - Present)
 - Co-founded one of the UK's largest hackathon communities with 650+ members
