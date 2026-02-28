@@ -1,5 +1,5 @@
-<h1 align="center">Nguyen Vu Le</h1>
-<h3 align="center">AI infrastructure engineer specializing in multi-agent orchestration and LLM-powered financial systems</h3>
+<h1 align="center">Louis Le</h1>
+<h3 align="center">AI infrastructure engineer specialising in multi-agent orchestration and LLM-powered financial systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/le-nguyen-vu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -17,7 +17,7 @@
 
 ## About
 
-Building production agentic systems processing real-time equity data across 2,000+ instruments with 31 integrated tool APIs. Proven track record reducing latency 4x and infrastructure costs by 60-80%. UCL Computer Science.
+Building production agentic systems that process real-time equity data across 2,000+ instruments, with 31 integrated tool APIs. Proven track record of reducing latency 4x and infrastructure costs by 60-80%. UCL Computer Science.
 
 **Currently:** Co-founder & CTO at a fintech AI startup (multi-agent orchestration, real-time financial data, SEC filings, market intelligence) and co-founder of **The Hack Collective** — one of the UK's largest hackathon communities (650+ members, partnered with Kickstart Global).
 
